@@ -4,7 +4,7 @@
 //     intervals[i][0] = start point of i'th interval
 //     intervals[i][1] = finish point of i'th interval
 
-// */
+// ddd */
 
 // vector<vector<int>> mergeIntervals(vector<vector<int>> &intervals) {    
 
